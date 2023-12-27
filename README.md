@@ -18,7 +18,7 @@ Curso promovido pela Rocketseat.
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src="./assets/assets/Cover.png" width="100%">
+  <img alt="projeto DevLinks" src="./assets/Cover.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
